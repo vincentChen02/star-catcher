@@ -1,0 +1,285 @@
+2018-03-22T01:15:15.659Z - normal: Load ~/.CocosCreator/settings.json
+2018-03-22T01:15:15.659Z - normal: checking language setting...
+2018-03-22T01:15:15.659Z - normal: Language: zh
+2018-03-22T01:15:18.599Z - success: protocol editor-framework registered
+2018-03-22T01:15:18.599Z - success: protocol app registered
+2018-03-22T01:15:18.599Z - success: protocol theme registered
+2018-03-22T01:15:18.599Z - success: protocol packages registered
+2018-03-22T01:15:18.599Z - success: protocol unpack registerred
+2018-03-22T01:15:18.599Z - success: protocol disable-commonjs registerred
+2018-03-22T01:15:18.859Z - normal: connected!
+2018-03-22T01:15:18.859Z - normal: Check project E:\cocosdemo\start_project
+2018-03-22T01:15:18.869Z - normal: Initializing Cocos2d
+2018-03-22T01:15:19.709Z - normal: Initializing Asset Database
+2018-03-22T01:15:19.789Z - success: protocol uuid registerred
+2018-03-22T01:15:19.789Z - success: protocol db registerred
+2018-03-22T01:15:19.789Z - success: protocol thumbnail registerred
+2018-03-22T01:15:19.789Z - normal: Loading editor/builtin packages
+2018-03-22T01:15:19.859Z - success: anysdk loaded
+2018-03-22T01:15:20.009Z - success: assets loaded
+2018-03-22T01:15:20.009Z - success: builder loaded
+2018-03-22T01:15:20.009Z - success: cocos-analytics loaded
+2018-03-22T01:15:20.019Z - success: console loaded
+2018-03-22T01:15:20.049Z - success: fb-instant-games loaded
+2018-03-22T01:15:20.059Z - success: hierarchy loaded
+2018-03-22T01:15:20.059Z - success: inspector loaded
+2018-03-22T01:15:20.059Z - success: keystore loaded
+2018-03-22T01:15:20.059Z - success: node-library loaded
+2018-03-22T01:15:20.069Z - success: package-asset loaded
+2018-03-22T01:15:20.069Z - success: preferences loaded
+2018-03-22T01:15:20.069Z - success: project-exporter loaded
+2018-03-22T01:15:20.089Z - success: project-importer loaded
+2018-03-22T01:15:20.089Z - success: project-settings loaded
+2018-03-22T01:15:20.089Z - success: ui-kit loaded
+2018-03-22T01:15:20.099Z - success: ui-grid loaded
+2018-03-22T01:15:20.099Z - success: scene loaded
+2018-03-22T01:15:20.099Z - success: sprite-editor loaded
+2018-03-22T01:15:20.099Z - success: store loaded
+2018-03-22T01:15:20.109Z - success: timeline loaded
+2018-03-22T01:15:20.109Z - normal: Loading builtin packages
+2018-03-22T01:15:20.109Z - success: asset-db-debugger loaded
+2018-03-22T01:15:20.119Z - success: code-editor loaded
+2018-03-22T01:15:20.119Z - success: color-picker loaded
+2018-03-22T01:15:20.119Z - success: package-manager loaded
+2018-03-22T01:15:20.129Z - success: sdkbox loaded
+2018-03-22T01:15:20.129Z - success: tester loaded
+2018-03-22T01:15:20.129Z - success: ui-kit-preview-extra loaded
+2018-03-22T01:15:20.129Z - success: ui-kit-preview loaded
+2018-03-22T01:15:20.129Z - success: ui-tree loaded
+2018-03-22T01:15:21.679Z - normal: Initializing project E:\cocosdemo\start_project
+2018-03-22T01:15:21.679Z - normal: Loading packages
+2018-03-22T01:15:21.679Z - normal: Watching packages
+2018-03-22T01:15:21.719Z - normal: Run Application
+2018-03-22T01:15:22.782Z - success: preview server running at http://localhost:7456
+2018-03-22T01:15:27.848Z - normal: 1.9.0
+2018-03-22T05:20:35.544Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "E:\\cocosdemo\\start_project\\build",
+  "debug": false,
+  "dest": "E:\\cocosdemo\\start_project\\build\\web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.start_project",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "a30751d9-d05b-4bbb-9e7d-b33ebfaf500a"
+  ],
+  "sourceMaps": false,
+  "startScene": "a30751d9-d05b-4bbb-9e7d-b33ebfaf500a",
+  "template": "link",
+  "title": "start_project",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "a9de813d-fd6e-48",
+  "zipCompressJs": true,
+  "project": "E:\\cocosdemo\\start_project",
+  "projectName": "start_project",
+  "debugBuildWorker": false
+}
+2018-03-22T05:20:35.547Z - normal: Building E:\cocosdemo\start_project
+2018-03-22T05:20:35.547Z - normal: Destination E:\cocosdemo\start_project\build\web-mobile
+2018-03-22T05:20:36.125Z - normal: Delete E:\cocosdemo\start_project\build\web-mobile\**\*
+2018-03-22T05:21:25.002Z - normal: Compiled project javascript file successfully
+2018-03-22T05:21:25.003Z - normal: Start building assets
+2018-03-22T05:21:25.003Z - normal: Start spawn build-worker
+2018-03-22T05:21:25.743Z - normal: Finish spawn build-worker
+2018-03-22T05:21:25.743Z - normal: Start init build-worker
+2018-03-22T05:21:27.752Z - normal: 1.9.0
+2018-03-22T05:21:27.813Z - normal: Finish init build-worker
+2018-03-22T05:21:27.814Z - normal: Start build-assets in worker
+2018-03-22T05:21:28.046Z - normal: Finish build-assets in worker
+2018-03-22T05:21:28.061Z - normal: Finish building assets
+2018-03-22T05:21:28.074Z - normal: Start building raw assets
+2018-03-22T05:21:28.075Z - normal: Start building plugin scripts
+2018-03-22T05:21:28.279Z - normal: Finish building raw assets
+2018-03-22T05:21:28.313Z - normal: Generating main.js from D:\cocos\CocosCreator\resources\static\build-templates\shares\main.js
+2018-03-22T05:21:28.324Z - normal: Generating html from D:\cocos\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2018-03-22T05:21:28.334Z - normal: Built to "E:\cocosdemo\start_project\build\web-mobile" successfully
+2018-03-22T05:26:23.268Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "E:\\cocosdemo\\start_project\\build",
+  "debug": false,
+  "dest": "E:\\cocosdemo\\start_project\\build\\web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.start_project",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "a30751d9-d05b-4bbb-9e7d-b33ebfaf500a"
+  ],
+  "sourceMaps": false,
+  "startScene": "a30751d9-d05b-4bbb-9e7d-b33ebfaf500a",
+  "template": "link",
+  "title": "start_project",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "a9de813d-fd6e-48",
+  "zipCompressJs": true,
+  "project": "E:\\cocosdemo\\start_project",
+  "projectName": "start_project",
+  "debugBuildWorker": false
+}
+2018-03-22T05:26:23.270Z - normal: Building E:\cocosdemo\start_project
+2018-03-22T05:26:23.270Z - normal: Destination E:\cocosdemo\start_project\build\web-mobile
+2018-03-22T05:26:23.271Z - normal: Delete E:\cocosdemo\start_project\build\web-mobile\**\*
+2018-03-22T05:26:25.257Z - normal: Compiled project javascript file successfully
+2018-03-22T05:26:25.258Z - normal: Start building assets
+2018-03-22T05:26:25.258Z - normal: Start spawn build-worker
+2018-03-22T05:26:25.970Z - normal: Finish spawn build-worker
+2018-03-22T05:26:25.970Z - normal: Start init build-worker
+2018-03-22T05:26:27.978Z - normal: 1.9.0
+2018-03-22T05:26:28.031Z - normal: Finish init build-worker
+2018-03-22T05:26:28.031Z - normal: Start build-assets in worker
+2018-03-22T05:26:28.240Z - normal: Finish build-assets in worker
+2018-03-22T05:26:28.249Z - normal: Finish building assets
+2018-03-22T05:26:28.257Z - normal: Start building raw assets
+2018-03-22T05:26:28.258Z - normal: Start building plugin scripts
+2018-03-22T05:26:28.284Z - normal: Finish building raw assets
+2018-03-22T05:26:28.304Z - normal: Generating main.js from D:\cocos\CocosCreator\resources\static\build-templates\shares\main.js
+2018-03-22T05:26:28.315Z - normal: Generating html from D:\cocos\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2018-03-22T05:26:28.334Z - normal: Built to "E:\cocosdemo\start_project\build\web-mobile" successfully
+2018-03-22T05:32:41.329Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "E:\\cocosdemo\\start_project\\build",
+  "debug": false,
+  "dest": "E:\\cocosdemo\\start_project\\build\\web-desktop",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.start_project",
+  "platform": "web-desktop",
+  "previewHeight": 960,
+  "previewWidth": 640,
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "a30751d9-d05b-4bbb-9e7d-b33ebfaf500a"
+  ],
+  "sourceMaps": false,
+  "startScene": "a30751d9-d05b-4bbb-9e7d-b33ebfaf500a",
+  "template": "link",
+  "title": "start_project",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "a9de813d-fd6e-48",
+  "zipCompressJs": true,
+  "project": "E:\\cocosdemo\\start_project",
+  "projectName": "start_project",
+  "debugBuildWorker": false
+}
+2018-03-22T05:32:41.331Z - normal: Building E:\cocosdemo\start_project
+2018-03-22T05:32:41.331Z - normal: Destination E:\cocosdemo\start_project\build\web-desktop
+2018-03-22T05:32:41.332Z - normal: Delete E:\cocosdemo\start_project\build\web-desktop\**\*
+2018-03-22T05:33:29.054Z - normal: Compiled project javascript file successfully
+2018-03-22T05:33:29.055Z - normal: Start building assets
+2018-03-22T05:33:29.055Z - normal: Start spawn build-worker
+2018-03-22T05:33:29.777Z - normal: Finish spawn build-worker
+2018-03-22T05:33:29.777Z - normal: Start init build-worker
+2018-03-22T05:33:31.718Z - normal: 1.9.0
+2018-03-22T05:33:31.773Z - normal: Finish init build-worker
+2018-03-22T05:33:31.773Z - normal: Start build-assets in worker
+2018-03-22T05:33:31.967Z - normal: Finish build-assets in worker
+2018-03-22T05:33:31.972Z - normal: Finish building assets
+2018-03-22T05:33:31.981Z - normal: Start building raw assets
+2018-03-22T05:33:31.982Z - normal: Start building plugin scripts
+2018-03-22T05:33:32.065Z - normal: Finish building raw assets
+2018-03-22T05:33:32.070Z - normal: Generating main.js from D:\cocos\CocosCreator\resources\static\build-templates\shares\main.js
+2018-03-22T05:33:32.094Z - normal: Generating html from D:\cocos\CocosCreator\resources\static\build-templates\web-desktop\template\index.html
+2018-03-22T05:33:32.098Z - normal: Built to "E:\cocosdemo\start_project\build\web-desktop" successfully
